@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="data/icons/app/io.github.AnimatedGTVR.Flurry.svg" width="120" alt="Flurry icon">
 
 # Flurry
 
